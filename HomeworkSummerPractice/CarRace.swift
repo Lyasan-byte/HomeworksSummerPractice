@@ -1,6 +1,6 @@
 import Foundation
 
-struct CarRace {
+class CarRace {
     var cars: [Car]
     
     init(cars: [Car]) {

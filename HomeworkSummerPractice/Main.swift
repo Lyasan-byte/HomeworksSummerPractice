@@ -1,11 +1,7 @@
-
-
-import Foundation
-
 import Foundation
 
 @main
-struct Application {
+struct Main {
     static func main() {
         let car1 = BMW(name: "BMW 320i", model: "320i", yearOfProduction: "2020", color: "White", engineCapacity: 200000)
         let car2 = Porsche(name: "Porsche 911", model: "911", yearOfProduction: "2024", color: "Red", engineCapacity: 250000)
